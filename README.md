@@ -1,9 +1,6 @@
 # PandemicPal 🤖
 
-PandemicPal is a WhatsApp bot that can help you with many works  built on nodejs and Twilio
-
-<img src="https://user-images.githubusercontent.com/73348574/128055920-ef73966a-dd4f-4b18-853f-8616c2026774.png" width="500" height="500"/>
-
+PandemicPal is a WhatsApp bot buit during COVID 19 Pandemic that can help you with many works  built on nodejs and Twilio
 
 ## Features of PandemicPal 🎆
 
